@@ -6,3 +6,5 @@ draft: false
 
 This is my About page.
 
+I am Ruth, a computer science student at BMC
+
